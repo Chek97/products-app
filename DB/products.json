@@ -1,0 +1,275 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name": "papelera",
+            "image": "/images/papelera.jpg",
+            "price": 58000,
+            "description": "Un contenedor de tamaño mediano que permite guardar muchos elementos, es facil y compacto de llevar, ademas que ocupa poco espacio en el hogar",
+            "category": "oficina",
+            "available": true,
+            "additional": {
+                "image1": "/images/papelera/papelera_1.jpg",
+                "image2": "/images/papelera/papelera_2.jpg",
+                "image3": "/images/papelera/papelera_3.jpg"
+            },
+            "characteristics": [
+                "pequeño",
+                "color negro",
+                "21x80cm"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-09-2023",
+                    "description": "Me sirvio mucho para poder guardar la basura en mi oficina"
+                },
+                {
+                    "user": "maria ramirez",
+                    "date": "10-10-2022",
+                    "description": "Me llego pero a los 5 dias, aun asi buen producto"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "coca-cola",
+            "image": "/images/coca_cola.jpg",
+            "price": 2500,
+            "description": "La bebida azucarada n1 en ventas de la historia, super refrescante",
+            "category": "comida",
+            "available": true,
+            "additional": {
+                "image1": "/images/coca-cola/coca_cola_1.jpg",
+                "image2": "/images/coca-cola/coca_cola_2.jpg",
+                "image3": "/images/coca-cola/coca_cola_3.jpg"
+            },
+            "characteristics": [
+                "pequeño",
+                "300ml",
+                "1 unidad",
+                "botella no retornable"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-02-2023",
+                    "description": "Pense que me iban a enviar un paquete con 12 pero solo recibi 1 que decepcion"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "escoba",
+            "image": "/images/escoba.jpg",
+            "price": 15000,
+            "description": "Escoba de madera para limpiar superficies y mantener limpia el hogar",
+            "category": "aseo",
+            "available": true,
+            "additional": {
+                "image1": "/images/escoba/escoba_1.jpg",
+                "image2": "/images/escoba/escoba_2.jpg",
+                "image3": "/images/escoba/escoba_3.jpg"
+            },
+            "characteristics": [
+                "con agarradera",
+                "desarmable",
+                "80cm"
+            ],
+            "reviews": []
+        },
+        {
+            "id": 4,
+            "name": "escritorio",
+            "image": "/images/oficina.jpg",
+            "price": 338000,
+            "description": "Un escritorio con madera ergonomica hecha para la comodidad del trabajo y la organizacion",
+            "category": "oficina",
+            "available": true,
+            "additional": {},
+            "characteristics": [
+                "para trabajo remoto",
+                "color negro",
+                "76x180cm"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-09-2023",
+                    "description": "Es un buen producto lo pedi hace 2 dias y me llego de inmediato"
+                },
+                {
+                    "user": "manuela carreño",
+                    "date": "10-07-2021",
+                    "description": "Yo necesitaba urgentemente un escritorio y ha sido mi mejor compra"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "papas margarita",
+            "image": "/images/papas_margarita.jpg",
+            "price": 2100,
+            "description": "paquete de frituras de diferentes sabores, ideal para comer en solitario",
+            "category": "comida",
+            "available": false,
+            "additional": {
+                "image1": "/images/papas/papas_1.jpg",
+                "image2": "/images/papas/papas_2.jpg",
+                "image3": "/images/papas/papas_3.jpg"
+            },
+            "characteristics": [
+                "pequeño",
+                "sabor clasico",
+                "12% mas de contenido"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-09-2023",
+                    "description": "Deberian venderlos por paquetes de 6 como hacen en otras tiendas"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "shampoo",
+            "image": "/images/shampoo.jpg",
+            "price": 35000,
+            "description": "Recipiente con formula y aceites revitalizantes para el mejor cuidado del cabello",
+            "category": "aseo",
+            "available": true,
+            "additional": {
+                "image1": "/images/shampoo/shampoo_1.jpg",
+                "image2": "/images/shampoo/shampoo_2.jpg"
+            },
+            "characteristics": [
+                "tamaño mediano",
+                "marca aconito",
+                "600ml de contenido"
+            ],
+            "reviews": [
+                {
+                    "user": "mariana ortiz",
+                    "date": "23-03-2022",
+                    "description": "Me funciono las primeras seis semanas pero despues se me espanto el pelo, tuve que cambiarlo"
+                },
+                {
+                    "user": "natalia ceron",
+                    "date": "05-01-2023",
+                    "description": "Lo llevo usando desde hace 3 dias y me ha ayudado mucho, siento los cambios muy rapidamente"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "olla de cocina",
+            "image": "/images/olla_cocina.jpg",
+            "price": 25000,
+            "description": "Olla express que permite cocinar los alimentos mas rapido que las ollas tradicionales",
+            "category": "cocina",
+            "available": true,
+            "additional": {
+                "image1": "/images/olla/olla_1.jpg",
+                "image2": "/images/olla/olla_2.jpg"
+            },
+            "characteristics": [
+                "anti-aderente",
+                "color negro",
+                "para carnes principalemente"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-09-2023",
+                    "description": "Lo mejor, la uso todos los dias y no me genera problemas"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "silla gamer",
+            "image": "/images/silla_gamer.jpg",
+            "price": 12000,
+            "description": "Silla amueblada con cojines para la comodiad y estilizada al gusto de la persona",
+            "category": "oficina",
+            "available": true,
+            "additional": {
+                "image1": "/images/silla/silla_gamer_1.jpg",
+                "image2": "/images/silla/silla_gamer_2.jpg",
+                "image3": "/images/silla/silla_gamer_3.jpg"
+            },
+            "characteristics": [
+                "multiples colores",
+                "ajuste de la altura",
+                "garantia de 1 año"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-09-2023",
+                    "description": "Es una gran opcion yo la compre y hasta ahora me he dormido en ella jajaj"
+                },
+                {
+                    "user": "camilo hernandez",
+                    "date": "11-02-2021",
+                    "description": "Me llego a tiempo pero la pedi de un color y me la trajeron de otro, no me gusta eso"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "camiseta",
+            "image": "/images/camiseta.jpg",
+            "price": 69000,
+            "description": "Camiseta de la marca hellfire club",
+            "category": "ropa",
+            "available": false,
+            "additional": {
+                "image1": "/images/camiseta/camiseta_1.jpg",
+                "image2": "/images/camiseta/camiseta_2.jpg",
+                "image3": "/images/camiseta/camiseta_3.jpg"
+            },
+            "characteristics": [
+                "talla S",
+                "color negro con blanco",
+                "edicion limitada"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-09-2023",
+                    "description": "Yo la pedi y no me llego, que pesimo servicio"
+                },
+                {
+                    "user": "daniela velez",
+                    "date": "12-11-2022",
+                    "description": "Esta camiseta la estan vendiendo pero ya no hay disponibles"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "lapiceros",
+            "image": "/images/lapiceros.jpg",
+            "price": 15000,
+            "description": "Conjunto de lapices de colores de punta fina y mejorar los trazados en cualquier superficie",
+            "category": "oficina",
+            "available": true,
+            "additional": {
+                "image1": "/images/lapiceros/lapiceros_1.jpg"
+            },
+            "characteristics": [
+                "retractiles",
+                "color negro, azul, rojo, verde"
+            ],
+            "reviews": [
+                {
+                    "user": "cristian hurtado",
+                    "date": "12-09-2023",
+                    "description": "super buenos y economicos, los uso para todo y su tinta es muy clara"
+                }
+            ]
+        }
+    ]
+}
